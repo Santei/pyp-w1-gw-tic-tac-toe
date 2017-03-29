@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+from tic_tac_toe.exceptions import *
 import unittest
 
 from tic_tac_toe import (
